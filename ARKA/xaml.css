@@ -1,0 +1,150 @@
+@charset   "UTF-8";
+/* CSS Document */
+
+*{
+	margin:0;
+	padding:0;
+	}
+	
+a img{
+	border-style:none;
+}
+
+img.right{
+	float:right;
+	margin:0 15px 15px 15px;
+	padding:0;
+}
+
+.sitemap a:link , .sitemap a:visited {
+	color:#002200;/*xis色*/
+}
+	
+.sitemap a:hover {
+	color:#3a54a3;/*fleadurne色*/
+}
+
+.fleieda{
+	float:right;
+	font-size:16px;	
+	height:35px;
+	line-height:35px;
+	padding-right:24px;
+}
+
+.flel{
+	background : url(xaml/flel.jpg) no-repeat;
+	color:#626262;/*aimul色*/	
+	font-weight:bold;
+	height:60px;
+	line-height : 24px;
+	padding-left:24px;
+}
+
+.nial{
+	background:url(xaml/nial.jpg) no-repeat;
+	color:#002200;/*xis色*/
+	font-size:14px;
+	height:40px;
+	line-height:40px;
+	margin:10px 0 0 0;
+	padding-left:18px;
+	text-align:left;
+}
+
+.nial2{
+	height:35px;
+	line-height:35px;
+	margin:0;
+	padding-left:23px;
+	background:url(xaml/nial2.png) no-repeat;
+	font-size:14px;
+	color:#5e5e5e;
+}
+
+.nial2 a:link , .nial2 a:visited {
+	text-decoration:none;
+	color:#5e5e5e;	
+}
+.nial2 a:hover {
+	text-decoration:none; color:#337c37;
+}
+
+.nial3{
+	height:35px;
+	line-height:35px;
+	margin:0;
+	padding-left:23px;
+	background:url(xaml/nial2.png) no-repeat;
+	font-size:12px;
+	color:#5e5e5e;
+}
+
+.nial3 a:link , .nial3 a:visited {
+	text-decoration:none;
+	color:#5e5e5e;	
+}
+.nial3 a:hover {
+	text-decoration:none; color:#337c37;
+}
+
+.nial4{
+	height:35px;
+	line-height:35px;
+	letter-spacing: -1px;
+	margin:0;
+	padding-left:23px;
+	background:url(xaml/nial2.png) no-repeat;
+	font-size:12px;
+	color:#5e5e5e;
+}
+
+.nial4 a:link , .nial4 a:visited {
+	text-decoration:none;
+	color:#5e5e5e;	
+}
+.nial4 a:hover {
+	text-decoration:none; color:#337c37;
+}
+
+.sakl{
+	background:url(xaml/sakl.png) no-repeat;
+	color:#2e2e2e;
+	font-size:16px;
+	font-weight:bold;
+	height:40px;
+	line-height:40px;
+	margin:10px 0 10px 10px;
+	padding-left:60px;
+}
+
+.sev{
+	color:#5e5e5e;
+	font-size:14px;
+	line-height:130%;
+	margin:15px;
+}
+
+.sev2{
+	color:#5e5e5e;
+	font-size:18px;
+	line-height:130%;
+	margin:15px;
+	font-weight:bold;
+
+}
+
+a:link{
+	text-decoration:none; color:#002299;
+}
+a:visited {
+	text-decoration:none; color:#772277;
+}
+a:hover {
+	text-decoration:none; color:#337c37;
+}
+
+body{
+	margin:0 auto;
+	width:1024px;
+}

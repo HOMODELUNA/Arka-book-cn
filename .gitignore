@@ -1,0 +1,9 @@
+chapters/_frontmatter.aux
+chapters/*.aux
+other/*
+ARKA.aux
+ARKA.atfi
+ARKA.log
+ARKA.out
+ARKA.synctex.gz
+ARKA.toc
