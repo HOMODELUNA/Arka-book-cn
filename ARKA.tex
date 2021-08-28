@@ -33,6 +33,9 @@
 \end{figure}
 }
 \geometry{left=2.5cm,right=2cm,top=2.54cm,bottom=2.54cm} %设置书籍的页边距
+
+\setcounter{tocdepth}{1}%设置在 ToC 的显示的章节深度
+%secnumdepth：设置章节的编号深度
 \begin{document}
 
 \maketitle
@@ -62,6 +65,8 @@
 \include{chapters/1-9.tex}
 \include{chapters/1-10.tex}
 \part{语言学上的Arka}
+\include{chapters/linguistic-difference.tex}
+\include{chapters/linguistic-meaning.tex}
 \include{chapters/linguistic-cognitic.tex}
 %\part{La Mondo kiel Volo}
 % \include{./TeX_files/chapter07}
